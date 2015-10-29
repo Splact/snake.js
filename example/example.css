@@ -1,0 +1,52 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #666;
+
+  margin: 60px 0;
+}
+
+header {
+  text-align: center;
+}
+
+.board {
+  margin: auto;
+  position: relative;
+  padding: 0;
+  height: 120px;
+  width: 768px;
+  box-sizing: content-box;
+
+  transition: all .25s ease-out;
+
+  border: 5px solid currentColor;
+}
+
+
+/* Snake */
+.snake {
+}
+
+.snake .block {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  background: currentColor;
+}
+.snake.gameover .block {
+  background-color: red;
+}
+
+#snake-1 { color: lawngreen; }
+#snake-2 { color: dodgerblue; }
+
+
+/* Food */
+.food {
+  width: 12px;
+  height: 12px;
+  margin: 6px;
+
+  background: #663399; /* rebeccapurple */
+  position: absolute;
+}

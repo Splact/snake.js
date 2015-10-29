@@ -1,0 +1,26 @@
+{
+  "name": "snakejs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Splact/snakejs",
+  "authors": [
+    "Dario Carella <hi@dariocarella.com>"
+  ],
+  "description": "Snake library",
+  "main": "snake.js",
+  "moduleType": [],
+  "keywords": [
+    "snake",
+    "nokia",
+    "library",
+    "controls",
+    "game"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
