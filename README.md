@@ -1,7 +1,7 @@
 Snake.js
 ========
 
-[View snake.js in use](http://snake.dariocarella.com)
+[View snake.js in action](http://snaaake.dariocarella.com)
 
 Snake.js is a module written in vanilla javascript that lets you create your custom snake game.
 
