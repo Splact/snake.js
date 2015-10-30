@@ -1,5 +1,5 @@
 var board = new Board({
-
+  timing: 120
 });
 var snake1 = new Snake({
   element: document.querySelector('#snake-1'),
