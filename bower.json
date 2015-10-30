@@ -1,7 +1,7 @@
 {
-  "name": "snakejs",
-  "version": "0.0.1",
-  "homepage": "https://github.com/Splact/snakejs",
+  "name": "snake.js",
+  "version": "0.8.1",
+  "homepage": "https://github.com/Splact/snake.js",
   "authors": [
     "Dario Carella <hi@dariocarella.com>"
   ],

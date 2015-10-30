@@ -209,6 +209,8 @@
       return self;
     };
 
+    self.stop = self.pause;
+
     self.togglePause = function() {
       if (_loop) return self.pause();
       else       return self.play();
@@ -508,6 +510,7 @@
     };
 
     self.stop = function() {
+      _updateDirection(null);
       _$snake.classList.remove(_direction);
       return self;
     };
