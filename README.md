@@ -1,7 +1,7 @@
 Snake.js
 ========
 
-[View snake.js in action](http://snaaake.dariocarella.com)
+[View snake.js in action](http://splact.github.io/snake.js/)
 
 Snake.js is a module written in vanilla javascript that lets you create your custom snake game.
 
@@ -258,4 +258,4 @@ Thanks for checking this out. For any questions just tweet me on [Twitter](http:
 
 Please let me know if you're using snake.js! I'm curious to see how you made it yours.
 
-Mentions are very appreciated. [dariocarella.com](http://dariocarella.com)
+Mentions are very appreciated. [dario.wtf](https://dario.wtf)
