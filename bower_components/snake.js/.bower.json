@@ -1,0 +1,35 @@
+{
+  "name": "snake.js",
+  "homepage": "https://github.com/Splact/snake.js",
+  "authors": [
+    "Dario Carella <hi@dariocarella.com>"
+  ],
+  "description": "Snake library",
+  "main": "snake.js",
+  "moduleType": [],
+  "keywords": [
+    "snake",
+    "nokia",
+    "library",
+    "controls",
+    "game"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "c24d86bf2f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c24d86bf2ff118b0e5c97c5a62129f1ae786da59"
+  },
+  "_source": "git://github.com/splact/snake.js.git",
+  "_target": "*",
+  "_originalSource": "snake.js",
+  "_direct": true
+}

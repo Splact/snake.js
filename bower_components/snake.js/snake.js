@@ -510,6 +510,7 @@
     };
 
     self.stop = function() {
+      _updateDirection(null);
       _$snake.classList.remove(_direction);
       return self;
     };
